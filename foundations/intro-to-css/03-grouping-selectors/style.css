@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif ;
+
+}
+.black-button {
+    background-color: #000000;
+    color: rgb(235, 235, 235);
+}
+
+.yellow-button {
+    background-color: hsl(54, 69%, 52%);
+    
+}
